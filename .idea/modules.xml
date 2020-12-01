@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Web_Quiz_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Web_Quiz_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Web_Quiz_Engine.Problems-Assignments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Web_Quiz_Engine.Problems-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Web_Quiz_Engine.Problems-Assignments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Web_Quiz_Engine.Problems-Assignments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Web_Quiz_Engine.Problems-Assignments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Web_Quiz_Engine.Problems-Assignments.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Web_Quiz_Engine.util.test.iml" />
+    </modules>
+  </component>
+</project>
